@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hajimemashite ningen domo.
+
+Ore no na wa joshua . Saikyo ni naru otokoda
